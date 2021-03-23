@@ -1,0 +1,60 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1395,         50]
+NotebookOptionsPosition[       921,         33]
+NotebookOutlinePosition[      1322,         49]
+CellTagsIndexPosition[      1279,         46]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Projekt za ROM", "Title",
+ CellChangeTimes->{{3.8254955764296536`*^9, 
+  3.8254955885257144`*^9}},ExpressionUUID->"081f27f8-7e62-458f-b729-\
+b51abfd52cb3"],
+
+Cell["Datum : 23.3.2021", "Text",
+ CellChangeTimes->{{3.825495626920885*^9, 
+  3.8254956411100354`*^9}},ExpressionUUID->"d1592416-fa0e-4036-a8c2-\
+15afd72383af"]
+}, Open  ]]
+},
+WindowSize->{760, 833},
+WindowMargins->{{-1142, Automatic}, {44, Automatic}},
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (June 19, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"cc7e519f-a310-433b-9162-25efb8fa333a"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 161, 3, 96, "Title",ExpressionUUID->"081f27f8-7e62-458f-b729-b51abfd52cb3"],
+Cell[744, 27, 161, 3, 34, "Text",ExpressionUUID->"d1592416-fa0e-4036-a8c2-15afd72383af"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
