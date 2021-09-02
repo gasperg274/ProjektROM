@@ -8,5 +8,8 @@ Pri projektu bom uporabljal računalniški program _Mathematica_.
 <ol>
   <li> Pridobivanje podatkov - uporaba Wolfram data repository</li>
   <li> Analiziranje pridobljenih podatkov</li>
+  <li> Tabela Slovenije in prikaz presaditve ledvic in srca v Sloveniji do leta 2015</li>
+  <li> Analiza drugih držav</li>
+  <li> Obrazec</li>
   
 </ol>
